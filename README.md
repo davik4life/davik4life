@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/davik4life/svg/refs/heads/main/Victor.svg" alt="Victor Adeshile" />
 </h1>
-<h3 align="center">A Passionate FullStack developer(Backend Heavy) from Nigeria</h3>
+<h3 align="center">A FullStack developer(Backend Heavy) | Open to collaborate | Open to work</h3>
 
 - 😄 Pronouns: He/Him
     
