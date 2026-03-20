@@ -30,7 +30,9 @@
 
 - 🦔 Founder of [Webtek-Masters Innovation](https://webtekmasters.com) 
 
-- 👨‍💻 Working at [Pinnacle Mutual Consulting](https://pinnaclemutualconsulting.com)
+- 👨‍💻 Last place of Work at [Pinnacle Mutual Consulting](https://pinnaclemutualconsulting.com)
+
+- ✍️ Currently building A Goal Tracking App => Checkout the codebase [here](https://github.com/davik4life/The_Budget_App) while it's public.
 
 - 🧭 Tech Blogger at [Hashnode](https://webdevnote.hashnode.dev/)
 
@@ -42,7 +44,7 @@
 - 👨‍💻 Python, JavaScript, PHP etc...
 - ⚙️ React
 - 👁️ SASS, CSS, TailwindCSS
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, Postgresql, SQL, MongoDB
 + a lot more :D
 
 ## Contact
