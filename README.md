@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: He/Him
     
-- 👨‍💻 Currently building [https://www.planmotive.com](https://www.planmotive.com)
+- 👨‍💻 Currently building [https://www.planmotive.com](https://www.planmotive.com) A Life Management App that helps you lan your life and finances.
   
 - ✍️ Top Rated Developer on Upwork: HIRE ME on: [Upwork](https://upwork.com/freelancers/victoradeshile)
 
