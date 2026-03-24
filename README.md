@@ -5,9 +5,9 @@
 
 - 😄 Pronouns: He/Him
     
-- 👨‍💻 All of my projects are available at [https://webtekmasters.com](https://webtekmasters.com)
+- 👨‍💻 Currently building [https://www.planmotive.com](https://www.planmotive.com)
   
-- Top Rated Developer on Upwork: HIRE ME on: [Upwork](https://upwork.com/freelancers/victoradeshile)
+- ✍️ Top Rated Developer on Upwork: HIRE ME on: [Upwork](https://upwork.com/freelancers/victoradeshile)
 
 - 📝 I regularly write articles on [Hashnode](https://webdevnote.hashnode.dev/)
 
